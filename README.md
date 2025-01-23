@@ -5,15 +5,15 @@
 🔧 Trabalhando em projetos envolvendo sistemas, hardware e automação.
 
   
-🛠️ Minhas principais habilidades:
+🛠️ **Minhas principais habilidades:**
 
-Programação: Python, JavaScript, HTML/CSS, C/C++
+- Programação: Python, JavaScript, HTML/CSS, C/C++
 
-Desenvolvimento Web: Criação de sites dinâmicos.
+- Desenvolvimento Web: Criação de sites dinâmicos.
 
-Automação: Projetos eletrônicos como carrinhos de controle remoto.
+- Automação: Projetos eletrônicos como carrinhos de controle remoto.
 
-✨interface web com bootstrap - projeto✨
+✨**interface web com bootstrap - projeto**✨
 [popcorn heaven](anasant3s.github.io/site-teste1/)
 
 

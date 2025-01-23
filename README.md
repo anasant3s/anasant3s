@@ -19,7 +19,7 @@ Automação: Projetos eletrônicos como carrinhos de controle remoto.
 
 [Linkedin](https://www.linkedin.com/in/anacsdp777/)
 
-[email](annasantos4530@gmail.com)
+[Email](annasantos4530@gmail.com)
 
 
 

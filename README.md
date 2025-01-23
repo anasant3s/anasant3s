@@ -1,6 +1,9 @@
 👋 Me chamo Ana, faço engenharia da computação e técnico de desenvolvimento de sistemas.
+
 👀 Atualmente, trabalho como programadora na CPTM 
+
 🔧 Trabalhando em projetos envolvendo sistemas, hardware e automação.
+
   
 🛠️ Minhas principais habilidades:
 

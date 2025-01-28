@@ -21,7 +21,9 @@
 
 [Email](annasantos4530@gmail.com)
 
-
+[Veja a animação no CodePen](
+https://codepen.io/pen?template=RNbvbab
+)
 
 
 

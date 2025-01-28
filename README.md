@@ -21,11 +21,6 @@
 
 [Email](annasantos4530@gmail.com)
 
-[Veja a animação no CodePen](
-https://codepen.io/pen?template=RNbvbab
-)
-
-
 
 <!---
 anasant3s/anasant3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

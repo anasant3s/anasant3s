@@ -7,7 +7,7 @@
   
 🛠️ **Minhas principais habilidades:**
 
-- Programação: Python, JavaScript, HTML/CSS, C/C++
+- Programação: Python, JavaScript, HTML/CSS, C++
 
 - Desenvolvimento Web: Criação de sites dinâmicos.
 

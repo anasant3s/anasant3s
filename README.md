@@ -27,7 +27,7 @@ Tenho experiência com desenvolvimento de aplicações, integração de sistemas
 
 ---
 
-## Tecnologias e ferramentas
+
 
 ### Ferramentas e Tecnologias
 
@@ -39,8 +39,8 @@ Tenho experiência com desenvolvimento de aplicações, integração de sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.simpleicons.org/openai/412991" width="45" height="45" alt="OpenAI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45" height="45" alt="OpenAI"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n"/>
 </p>
 
@@ -54,17 +54,6 @@ Tenho experiência com desenvolvimento de aplicações, integração de sistemas
 - n8n para automação e integração de processos.
 - Fundamentos de Machine Learning e IA generativa.
 
-### Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-</p>
-
-**Outras ferramentas:** Postman, pgAdmin e Arduino.
 
 ---
 

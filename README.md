@@ -131,8 +131,8 @@ Após a análise, as mudanças identificadas são organizadas em relatórios e e
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Axwrsy&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axwrsy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anasant3s&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasant3s&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -148,6 +148,4 @@ Após a análise, as mudanças identificadas são organizadas em relatórios e e
   </a>
 </p>
 
-<p align="center">
-  <i>Aprendendo na prática, evoluindo por meio da tecnologia.</i>
-</p>
+

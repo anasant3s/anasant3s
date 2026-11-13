@@ -124,17 +124,6 @@ Após a análise, as mudanças identificadas são organizadas em relatórios e e
 - ERP — gerenciamento e monitoramento de estoque.
 - CoinGecko — interface web para consulta de criptomoedas.
 - NetWatch - Monitoramento de dispositivos em redes.
-
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anasant3s&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasant3s&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 📫 Entre em contato

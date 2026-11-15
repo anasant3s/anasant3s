@@ -59,6 +59,56 @@ Tenho experiência com desenvolvimento de aplicações, integração de sistemas
 
 ## Projetos em destaque
 
+🔹 DocSmart – Plataforma Inteligente de Análise de Documentos com IA
+
+Aplicação web Full Stack desenvolvida para automatizar a análise e facilitar a consulta de documentos PDF por meio de Inteligência Artificial. A plataforma permite que os usuários enviem documentos, extraiam informações relevantes e interajam com o conteúdo utilizando um assistente inteligente integrado à API do Google Gemini.
+
+O sistema realiza o processamento dos arquivos enviados utilizando PyMuPDF, extraindo o conteúdo textual e preservando a identificação das páginas para possibilitar consultas contextualizadas. Após o processamento, a Inteligência Artificial analisa o documento e gera automaticamente resumos, classificações por categoria e palavras-chave.
+
+Além da análise automatizada, a aplicação conta com um recurso de chat que permite realizar perguntas diretamente sobre o conteúdo dos documentos. As respostas são geradas com base nos trechos relevantes extraídos do PDF, incluindo referências às páginas utilizadas como fonte das informações.
+
+Principais funcionalidades:
+
+Upload e processamento de documentos PDF.
+
+Extração automatizada de conteúdo textual com identificação das páginas.
+
+Análise de documentos utilizando Inteligência Artificial.
+
+Geração automática de resumos em linguagem natural.
+
+Classificação de documentos por categoria.
+
+Identificação e extração de palavras-chave relevantes.
+
+Chat interativo para consultas sobre o conteúdo dos documentos.
+
+Respostas contextualizadas com referências às páginas do PDF.
+
+Listagem, pesquisa, filtragem e gerenciamento de documentos.
+
+Persistência de informações em banco de dados.
+
+Comunicação entre frontend e backend por meio de API REST.
+
+Tecnologias utilizadas:
+
+Front-end: React, Vite e Tailwind CSS — desenvolvimento de uma interface moderna e responsiva, com componentes reutilizáveis e integração com os serviços do backend.
+
+Back-end: Python e Flask — implementação das regras de negócio, criação de endpoints REST, processamento de requisições e integração entre os serviços da aplicação.
+
+Inteligência Artificial: Google Gemini API e Google Gen AI SDK — análise automatizada de documentos, geração de resumos, classificação e respostas contextualizadas às perguntas dos usuários.
+
+Processamento de documentos: PyMuPDF — leitura de arquivos PDF, extração de texto e identificação das páginas para consultas com referências.
+
+Banco de Dados: SQLite e Flask-SQLAlchemy — persistência e gerenciamento dos documentos e dos resultados das análises.
+
+Integração: Axios — comunicação HTTP entre a aplicação React e a API Flask.
+
+Objetivo: desenvolver uma solução que utilize Inteligência Artificial para reduzir o esforço manual na leitura e interpretação de documentos, facilitando a localização de informações e permitindo consultas diretas ao conteúdo de arquivos PDF por meio de uma interface web intuitiva.
+
+🔗 **Acesse a aplicação:** https://github.com/anasant3s/docSmart
+
 ### 🔹 Sistema de Gestão – Conselho de Classe
 
 Aplicação web Full Stack desenvolvida para digitalizar e otimizar os processos do Conselho de Classe, centralizando o gerenciamento de turmas e informações dos alunos em uma única plataforma.
